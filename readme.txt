@@ -1,1 +1,7 @@
-该版本更新了hmc5983罗盘，加入了接收遥控信号但还未加入操作功能，舵机控制滤波等正常。
+The Hailquad v1.0 is based on STM32H7 with two sets of sensors.
+
+
+
+
+
+This project will continue when I have enough time and fundings.
